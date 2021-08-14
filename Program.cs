@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello First modified code!");
+            Console.WriteLine("Hello changing code directly on main line!");
         }
     }
 }
